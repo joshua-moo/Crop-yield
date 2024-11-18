@@ -137,8 +137,12 @@ While the model achieves a fair R-squared value of 0.7307, suggesting it capture
 
 `
 conclusion 
+
+
 The neural network model (MLP Regressor) achieved an R-squared value of 0.7307, indicating that it explains approximately 73% of the variance in maize yield data. However, the model’s Mean Absolute Error (MAE) of 9951.85 and Mean Squared Error (MSE) of 197,733,611.27 suggest that there are notable prediction deviations, pointing to areas where the model could be improve
+
 Recommendations for Enhancing Maize Yield
+
 Based on the analysis, several key factors have been identified that significantly influence maize yield. Here are targeted recommendations to improve yield:
 
 Increase Investment in Pesticides:
