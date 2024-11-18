@@ -139,3 +139,24 @@ While the model achieves a fair R-squared value of 0.7307, suggesting it capture
 conclusion 
 according to the diferent models the r sqaured is abo
 ```
+Recommendations for Enhancing Maize Yield
+Based on the analysis, several key factors have been identified that significantly influence maize yield. Here are targeted recommendations to improve yield:
+
+Increase Investment in Pesticides:
+
+The data suggests that regions with higher pesticide usage tend to have improved yields, likely due to better pest control. Increasing pesticide application, while carefully managing environmental impacts, may enhance yield consistency.
+Optimize Temperature and Rainfall Conditions:
+
+Temperature and rainfall both exhibit correlations with yield. Locations with moderate rainfall and temperatures around the ideal range for maize growth could potentially maximize yields. It is recommended that farmers consider adaptive practices, such as irrigation management and selecting climate-resilient maize varieties, to buffer against weather fluctuations.
+Focus on High-Yield Regions:
+
+Analysis of yield by area indicates some regions consistently outperform others in maize yield. Targeting resources to these high-yield regions, such as Albania, can maximize output. Expanding maize farming in these regions and adopting best practices there could yield the best returns.
+Enhance Training and Knowledge Transfer:
+
+Farmers should be trained on best practices around pesticide usage, temperature control techniques (e.g., shade nets), and irrigation systems. Transferring knowledge from high-yield areas to low-yield areas may help underperforming regions improve yields.
+Experiment with Advanced Farming Techniques:
+
+Implement precision agriculture technologies, such as soil moisture sensors and climate monitoring tools, to optimize water usage and monitor growing conditions in real time. These tools enable more precise control over environmental variables affecting maize yield.
+Continuous Monitoring and Improvement:
+
+Since maize yield is influenced by dynamic factors, continuously monitoring key metrics, such as temperature, rainfall, and pesticide application levels, will help refine the approach each season. Regular data collection and feedback loops can help fine-tune strategies and adapt to changing conditions.
